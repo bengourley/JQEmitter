@@ -6,7 +6,7 @@ A JavaScript prototype to mixin jQuery event methods onto your own objects.
 # Example
 
 ```js
-// Constructer for your
+// Constructor for your
 // own objects that you
 // want to emit events
 function MyEmitter() {
