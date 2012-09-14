@@ -1,9 +1,9 @@
 /**
  * JQEmitter.js
  * ==========
- * https://github.com/bengourley/gallery
+ * https://github.com/bengourley/JQEmitter
  * Licenced under the New BSD License
-*/
+ */
 (function () {
 
 module.exports = JQEmitter
